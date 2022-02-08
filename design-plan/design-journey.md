@@ -18,22 +18,22 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 ### Existing Site: The Site (Milestone 1)
 > What is your existing site about? Tell us about it.
 
-TODO
+My existing site is my personal website. It includes all the information that may be important to a user trying to learn more about me. The main user of this site would be job recruiters who want to understand my resume, personality, interests, and more.
 
 > How and where did you create this site?
 
-TODO
+I created this site as one of my assignments for INFO1300, but I made minor adjustments in the files I added to this project in order to have updated information on my resume and fix CSS errors I was getting when testing the site. I wanted to use this site for this project because I like how personalized it is and I like the way I designed the site.
 
 > Is this site designed for desktop, mobile devices or both?
 
-TODO
+It is mainly designed for desktop, but it still works on large tablets.
 
 
 ### Existing Site: Audience (Milestone 1)
 > Who is your _existing_ site's audience?
 > Briefly explain who the intended audience(s) is for your website. Be specific and justify why this audience is appropriate for your site. You may not be the audience.
 
-TODO
+The audiences for my site are job recruiters for positions I have showed interest in or for posiitons I would be a good fit for, as well as students who would like to network and connect with me. Job recruiteres are the primary audience because they would need to see my resume with my experiences and credentials in order to see if I am qualified for a specific position, and would likely find my personality helpful to see if I'd be a good fit into a specific company culture. Other students would also be a potential audience because I know that many students look to each other for advice - whether it is about clubs/extracurriculars or classes/major. I believe that students who resonate with my interests and academics would be interesting in connecting with me because of my website.
 
 
 ### Existing Site: Audience Needs (Milestone 1)
