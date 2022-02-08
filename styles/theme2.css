@@ -1,0 +1,128 @@
+.icons {
+    visibility: hidden;
+    font-size: 0pt;
+  }
+
+  html {
+    background-color: #EA1744;
+    color: white;
+    font-family: Didot, serif;
+    margin: 30px;
+  }
+
+  p {
+    background-color: #F56416;
+    font-size: 14pt;
+    padding: 12px;
+  }
+
+  .resume img {
+    height: 100px;
+  }
+
+  .suki {
+    display: flex;
+  }
+
+  .suki img {
+    height: auto;
+    width: auto;
+    max-height: 300px;
+  }
+
+  .sukifriends {
+    display: flex;
+  }
+
+  .sukifriends img {
+    height: auto;
+    width: auto;
+    max-height: 300px;
+  }
+
+  .egg img {
+    height: auto;
+    width: auto;
+    max-height: 300px;
+  }
+
+  .pasta img {
+    height: auto;
+    width: auto;
+    max-height: 300px;
+  }
+
+  .food {
+    display: flex;
+  }
+
+  .food img {
+    height: auto;
+    width: auto;
+    max-height: 300px;
+  }
+
+  .nature {
+    display: flex;
+  }
+
+  .nature img {
+    height: auto;
+    width: auto;
+    max-height: 300px;
+  }
+
+  nav li {
+    display: inline-block;
+  }
+
+  nav {
+    position: relative;
+    top: -15px;
+    text-align: center;
+  }
+
+  nav a {
+    font-size: 16pt;
+    text-transform: lowercase;
+    color: white;
+    text-decoration: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin: 6px;
+    background-color: rgba(253, 144, 28, 0.4);
+  }
+
+  nav a:hover {
+    background-color: #F7D358;
+  }
+
+  h1 {
+    background-color: #EF271B;
+    text-align: center;
+    font-size: 60pt;
+    margin: 10px;
+  }
+
+  h2 {
+    text-transform: lowercase;
+    background-color: #DD4B1A;
+    padding: 12px;
+    font-size: 18pt;
+  }
+
+  h3 {
+    text-transform: lowercase;
+    background-color: #FE9A2E;
+    padding: 15px;
+    font-size: 14pt;
+  }
+
+  h4 {
+    text-transform: lowercase;
+    background-color: #FACC2E;
+    padding: 12px;
+    font-size: 14pt;
+  }
