@@ -4,14 +4,14 @@
   }
 
   html {
-    background-color: #EA1744;
+    background-color: #170d70;
     color: white;
     font-family: Didot, serif;
     margin: 30px;
   }
 
   p {
-    background-color: #F56416;
+    background-color: #170d70;
     font-size: 14pt;
     padding: 12px;
   }
@@ -100,7 +100,7 @@
   }
 
   h1 {
-    background-color: #EF271B;
+    background-color: #1b42ef;
     text-align: center;
     font-size: 60pt;
     margin: 10px;
@@ -108,21 +108,21 @@
 
   h2 {
     text-transform: lowercase;
-    background-color: #DD4B1A;
+    background-color: #000000;
     padding: 12px;
     font-size: 18pt;
   }
 
   h3 {
     text-transform: lowercase;
-    background-color: #FE9A2E;
+    background-color: #157a53;
     padding: 15px;
     font-size: 14pt;
   }
 
   h4 {
     text-transform: lowercase;
-    background-color: #FACC2E;
+    background-color: #3839a1;
     padding: 12px;
     font-size: 14pt;
   }
