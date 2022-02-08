@@ -1,17 +1,12 @@
-.icons {
-    visibility: hidden;
-    font-size: 0pt;
-  }
-
-  html {
-    background-color: #170d70;
-    color: white;
+html {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
     font-family: Didot, serif;
     margin: 30px;
   }
 
   p {
-    background-color: #170d70;
+    background-color: #ffffff;
     font-size: 14pt;
     padding: 12px;
   }
@@ -85,22 +80,22 @@
   nav a {
     font-size: 16pt;
     text-transform: lowercase;
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     padding-top: 12px;
     padding-bottom: 12px;
     padding-right: 20px;
     padding-left: 20px;
     margin: 6px;
-    background-color: rgba(253, 144, 28, 0.4);
+    background-color: rgba(238, 113, 255, 0.4);
   }
 
   nav a:hover {
-    background-color: #F7D358;
+    background-color: #9b16a7;
   }
 
   h1 {
-    background-color: #1b42ef;
+    background-color: #d1c4ff;
     text-align: center;
     font-size: 60pt;
     margin: 10px;
@@ -108,21 +103,21 @@
 
   h2 {
     text-transform: lowercase;
-    background-color: #000000;
+    background-color: #ffcece;
     padding: 12px;
     font-size: 18pt;
   }
 
   h3 {
     text-transform: lowercase;
-    background-color: #157a53;
+    background-color: #ffdfa4;
     padding: 15px;
     font-size: 14pt;
   }
 
   h4 {
     text-transform: lowercase;
-    background-color: #3839a1;
+    background-color: #fff6a4;
     padding: 12px;
     font-size: 14pt;
   }
