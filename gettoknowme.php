@@ -13,10 +13,10 @@
   <h1>mitra</h1>
   <nav>
     <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="gettoknowme.html">Me</a></li>
-      <li><a href="resume.html">Resume</a></li>
-      <li><a href="contactme.html">Contact</a></li>
+      <li><a href="index.php">Home</a></li>
+      <li><a href="gettoknowme.php">Me</a></li>
+      <li><a href="resume.php">Resume</a></li>
+      <li><a href="contactme.php">Contact</a></li>
     </ul>
   </nav>
 <p>Some things you may not know about me...</p>
