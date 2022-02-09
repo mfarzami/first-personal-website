@@ -18,22 +18,22 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 ### Existing Site: The Site (Milestone 1)
 > What is your existing site about? Tell us about it.
 
-My existing site is my personal website. It includes all the information that may be important to a user trying to learn more about me. The main user of this site would be job recruiters who want to understand my resume, personality, interests, and more.
+My existing site is my personal website. It includes all the information that may be important to a user trying to learn more about me. There are pages for my interests and personality traits, my resume, and my contact information. It is meant to be a representation of the parts of me that I am proud of and that represent me.
 
 > How and where did you create this site?
 
-I created this site as one of my assignments for INFO1300, but I made minor adjustments in the files I added to this project in order to have updated information on my resume and fix CSS errors I was getting when testing the site. I wanted to use this site for this project because I like how personalized it is and I like the way I designed the site.
+I created this site as one of my assignments for INFO1300, but I made minor adjustments in the files I added to this project in order to have updated information on my resume and fix a CSS contrast error I was getting when testing the site. I wanted to use this site for this project because I like how personalized it is and I like the way I had designed the site.
 
 > Is this site designed for desktop, mobile devices or both?
 
-It is mainly designed for desktop, but it still works on large tablets.
+It is designed for desktop, but it still works on large tablets.
 
 
 ### Existing Site: Audience (Milestone 1)
 > Who is your _existing_ site's audience?
 > Briefly explain who the intended audience(s) is for your website. Be specific and justify why this audience is appropriate for your site. You may not be the audience.
 
-The audiences for my site are job recruiters for positions I have showed interest in or for posiitons I would be a good fit for, as well as students who would like to network and connect with me. Job recruiteres are the primary audience because they would need to see my resume with my experiences and credentials in order to see if I am qualified for a specific position, and would likely find my personality helpful to see if I'd be a good fit into a specific company culture. Other students would also be a potential audience because I know that many students look to each other for advice - whether it is about clubs/extracurriculars or classes/major. I believe that students who resonate with my interests and academics would be interesting in connecting with me because of my website.
+The audiences for my site are job recruiters for positions I have showed interest in or for posiitons I would be a good fit for, as well as students who would like to network and connect with me. Job recruiters are the primary audience because they would need to see my resume with my experiences and credentials in order to see if I am qualified for a specific position, and would likely find my personality helpful to see if I'd be a good fit into a specific company culture. Other students would also be a potential audience because I know that many students look to each other for advice - whether it is about clubs and extracurriculars or classes and majors. I believe that students who resonate with my interests and academics would be interesting in connecting with me and learning more about me through my website.
 
 
 ### Existing Site: Audience Needs (Milestone 1)
@@ -41,19 +41,23 @@ The audiences for my site are job recruiters for positions I have showed interes
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job.
 > You may copy these from your previous project. However, I would encourage you to refine them.
 
-Goal 1: TODO: Brief Title
+Goal 1: Straightforward
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO
+  - I will make sure that there is no unnecessary content to distract from the important information I am displaying and that the pages in the navigation bar are thoughtfully chosen to avoid clicking around too much.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO
+  - Users will probably be looking for certain aspects of my personal website and won't need to see it all at once. The site shouldn't distract them from relevant parts of my resume and personality because then important elements might be overlooked.
 
-Goal 2: TODO
-TODO
+Goal 2: Aesthetically pleasing
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - The site will be pleasant to look at and use colors that follow the contrast rules to make for easy reading. The layout of the site will also be enjoyable to look at and follow a natural eyeline of users.
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - Since users may be interested in my graphic design experience I detailed on my site, I want to make sure the site also shows that I have good taste in web design as well to back up my experience.
 
-Goal 3: TODO
-TODO
-
-TODO: ...
+Goal 3: Informative
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - I will make sure that the site contains all the information my users may need. This includes my intro, resume, fun facts, and contact information.
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - A job recruiter would need to see my resume which includes my work experiences and skills. A fellow student looking for someone with similar interests would want to see my extracurriculars on my resume as well. Both user groups would want to learn about my personality to see if I'd be a compatible team member, intern, or friend. The contact page is also essential for either group to contact me about a job or an inquiry.
 
 
 ### Existing Site: Design/Sketches (Milestone 1)
@@ -62,9 +66,17 @@ TODO: ...
 > Create new sketches here. This is part of the design process to get you thinking about the strengths/weaknesses of the current design.
 > Provide a brief explanation _underneath_ each sketch.
 
-TODO
-(Don't know how to "link" images, review the Markdown documentation. TODO: Delete this text.)
+![Home Page](homepage.jpg)
+For each page, I first sketched the existing design in black, then explained elements in blue, flagged concerns in red, and pointed out strengths in green. The home page is a simple header and nav bar with an intro blurb. I noticed that the user may be disinterested by the lack of content on this page.
 
+![Me Page](mepage.jpg)
+The me page highlights my interests, passions, and personality traits. I used images to bring my text to life. I noticed that there may be too much horizontal scrolling, but I did think the images made the page more attention grabbing.
+
+![Resume Page](resumepage.jpg)
+The resume page has different sections like education, work experiences, and skills with blurbs underneath them. I noticed that, again, there was too much vertical scrolling and that the text was spaced/formatted in a way that may not follow a user's natural eye movements.
+
+![Contact Page](contactpage.jpg)
+The contact page has my phone number and email address linked. I immediately noticed this page had too much blank space and no content to interest the user apart from my contact information.
 
 
 ## Refined Design (Milestone 2)
